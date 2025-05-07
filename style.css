@@ -1,0 +1,80 @@
+body{
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.banner {
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+
+.picture2 {
+    margin-top: 50px;
+
+}
+
+.helloH {
+
+    color: rgb(255, 183, 27);
+    font-family: Courier ;
+}
+
+
+.helloP {
+    font-weight:400 ;
+}
+
+
+.mySkills {
+    color: rgba(255, 10, 173, 0.747);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dnd {
+    font-weight: 700;
+    color: rgba(198, 21, 221, 0.815);
+}
+
+.eye1 {
+    margin-top: -250px;
+    margin-left: -670px;
+    
+}
+
+.eye2 {
+    margin-left: 650px;
+    margin-bottom: -30px;
+}
+
+.love {
+    color: rgb(140, 68, 199);
+}
+
+
+button {
+    background-color: rgb(172, 142, 9);
+    height: 36px;
+    border: none;
+    width: 100px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: rgb(51, 4, 126);
+    height: 50px;
+    width: 100%;
+    padding: 40px 0;
+    margin-top: 20px;
+}
+
+.footer-container {
+    justify-content: center;
+    display: flex;
+    gap: 60px;
+}
